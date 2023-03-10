@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://i0.wp.com/www.australiacloud.com.au/wp-content/uploads/2022/08/cloud-computing-architecture.jpg?w=840&ssl=1" alt="cover" />
+<img width="100%" height = "250px" src="https://theicttrends.com/wp-content/uploads/2023/01/4-Pillars-of-Cloud-Computing-1-700x375.jpg" alt="cover" />
 </div>
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
@@ -34,7 +34,8 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://linktr.ee/emidio_a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  
-<a href = 'https://www.linktr.ee/emidio_a/https://www.linktr.ee/emidio_a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/alemnju-emidio-atabongawung/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://github.com/emidinho'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  
 
 
