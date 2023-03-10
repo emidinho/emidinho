@@ -1,5 +1,5 @@
 <div align="center">
-<img width="840%" height = "450px" src="https://i0.wp.com/www.australiacloud.com.au/wp-con…2/08/cloud-computing-architecture.jpg?w=840&ssl=1](https://theicttrends.com/wp-content/uploads/2023/01/4-Pillars-of-Cloud-Computing-1-700x375.jpg)" alt="cover" />
+<img width="100%" height = "250px" src="https://i0.wp.com/www.australiacloud.com.au/wp-con…2/08/cloud-computing-architecture.jpg?w=840&ssl=1](https://theicttrends.com/wp-content/uploads/2023/01/4-Pillars-of-Cloud-Computing-1-700x375.jpg)" alt="cover" />
 </div>
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
